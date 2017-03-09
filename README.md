@@ -1,2 +1,2 @@
 # design
-graphics designs in free time
+graphics design in free time
